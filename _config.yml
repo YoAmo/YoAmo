@@ -1,1 +1,5 @@
-theme: jekyll-theme-time-machine
+#theme: jekyll-theme-time-machine
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
